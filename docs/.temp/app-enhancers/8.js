@@ -1,0 +1,1 @@
+export { default } from "/Users/nik/Documents/GitHub/hopfild/node_modules/vuepress-plugin-smooth-scroll/lib/enhanceApp.js"

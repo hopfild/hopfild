@@ -18,6 +18,12 @@ module.exports = {
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',
       },
+      {
+      name: 'Nikita Balagansky',
+      avatar: '/assets/img/avatar.png',
+      link: 'https://bootstrapstarter.com/',
+      linktext: 'Follow',
+      }
     ],
     footer: {
       contact: [
@@ -77,7 +83,6 @@ module.exports = {
         },
       ],
     },
-
     sitemap: {
       hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
     },
@@ -93,4 +98,15 @@ module.exports = {
     },
     smoothScroll: true
   },
+  plugins: [
+    [
+      'vuepress-plugin-mathjax',
+      {
+        target: 'svg',
+        macros: {
+          '*': '\\times',
+        },
+      },
+    ],
+  ],
 }

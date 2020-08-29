@@ -1,0 +1,1 @@
+export { default } from "/Users/nik/Documents/GitHub/hopfild/node_modules/vuepress-plugin-mailchimp/src/enhanceAppFile.js"
