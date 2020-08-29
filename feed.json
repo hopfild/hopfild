@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hopfild",
+    "home_page_url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/",
+    "feed_url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.json",
+    "description": "Blog example for Mediumish theme with VuePress",
+    "items": [
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/08/29/vae/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/08/29/vae/",
+            "title": "Variational Autoencoders",
+            "summary": "What is bayesian inference and how networks learn distribution.",
+            "image": "https://i.ibb.co/2qKt5m9/2020-08-29-22-36-01.png",
+            "date_modified": "2020-08-28T21:00:00.000Z"
+        }
+    ]
+}

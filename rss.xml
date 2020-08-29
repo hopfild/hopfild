@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hopfild</title>
+        <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/</link>
+        <description>Blog example for Mediumish theme with VuePress</description>
+        <lastBuildDate>Sat, 29 Aug 2020 20:10:45 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Variational Autoencoders]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/08/29/vae/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/08/29/vae/</guid>
+            <pubDate>Fri, 28 Aug 2020 21:00:00 GMT</pubDate>
+            <description><![CDATA[What is bayesian inference and how networks learn distribution.]]></description>
+            <enclosure url="https://i.ibb.co/2qKt5m9/2020-08-29-22-36-01.png">
+            </enclosure>
+        </item>
+    </channel>
+</rss>
